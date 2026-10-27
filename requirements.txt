@@ -1,0 +1,15 @@
+# Tested on Python 3.13 (Windows 11). TensorFlow 2.21 did not install on the Python 3.14 environment.
+tensorflow==2.21.0
+keras==3.15.1
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+yfinance==1.7.0
+matplotlib==3.11.2
+plotly==7.1.0
+streamlit==1.66.1
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0

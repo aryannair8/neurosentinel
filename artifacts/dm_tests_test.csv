@@ -1,0 +1,4 @@
+comparison,t_stat,p_value
+Zero-return -> GRU,-2.926192853319688,0.00343138150939426
+Linear regression -> GRU,-1.826350511443068,0.0677974812272697
+Zero-return -> Linear regression,-2.7807168965681996,0.005423901393861286
